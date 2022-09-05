@@ -36,5 +36,6 @@ public class CreditController {
     public ResponseEntity<?> addVipPeriod(@RequestHeader("Authorization") String bearerToken){
         creditService.addVipPeriod(jwtTokenUtil.getEmailFromBearerToken(bearerToken));
         return response.success(HttpStatus.OK);
+        System.out.println();
     }
 }
