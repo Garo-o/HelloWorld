@@ -131,25 +131,6 @@ https://subsequent-tuberose-06f.notion.site/f498d3e543d843f2ab3258f553207fa6?v=e
 - 신고 기능
 - 공지사항, 대화에 도움이 될 만한 팁 등을 설명하는 포스트를 메인 화면에서 제공
 
-## 결과 예시 화면 및 UCC 링크 {- 유튭 스크린샷 / GIF 넣기 / 유툽링크}
-
-
-
-### 유튜브링크
-
-[https://www.youtube.com/watch?v=8ZY0X5w0Hig](https://www.youtube.com/watch?v=8ZY0X5w0Hig)
-
-![Untitled](./image/Untitled_3.png)
-
-![Untitled](./image/Untitled_4.png)
-
-![Untitled](./image/Untitled_5.png)
-
-![Untitled](./image/Untitled_6.png)
-
-![Untitled](./image/Untitled_7.png)
-
----
 
 ### 랜딩 페이지
 
